@@ -1,0 +1,6 @@
+{
+  "name": "NeuRetail ERP",
+  "description": "Smart Supermarket Billing & Inventory Management System by NeuNet Tech Solutions featuring POS, CRM, supplier and category-specific multi-counter operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
